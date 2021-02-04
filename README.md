@@ -18,4 +18,4 @@
   * Keep active developing
   * Provides service to Lyra customers
 
-Please send your project to us.
+Please send your project to us [[link]](https://t.me/lyra_live).
