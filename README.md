@@ -1,4 +1,4 @@
-# Grants
+# Lyra Grants Program
 
 * Goal
   * To have more developer to targeting Lyra platform
@@ -14,4 +14,4 @@
   * Open source, GPL licensed [[link]](https://github.com/MorgothCreator/lyra-gui-wallet)
   * Grants: 1M LYR
 
-
+Please send your project to us.
